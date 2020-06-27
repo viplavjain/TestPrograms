@@ -1,6 +1,6 @@
 package com.LinkedList;
 
-public class LinkedList<T>
+public class LinkedList
 {
 	private class Node
 	{

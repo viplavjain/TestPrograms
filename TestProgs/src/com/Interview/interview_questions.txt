@@ -2,5 +2,6 @@ IHS INterview
 
 Q1)ConcurrentHashMap :- What if we are trying to write and read on the same segment simultaneously.
 Q2)Next greater element in the array.
+Q3) 
 
 
